@@ -14,10 +14,10 @@ Each of the 29 generic performance counters can be configured to count events fr
 10. Stalls of Read Register
 11. Stalls of Execute
 12. Stalls of Writeback
-13. buffer_miss *TODO: Better description plz*
-14. imiss_kill *TODO: Better description plz*
-15. icache_bussy *TODO: Better description plz*
-16. imiss_time *TODO: Better description plz*
+13. buffer_miss
+14. imiss_kill
+15. icache_bussy
+16. imiss_time
 17. Cycles of Load blocked by Store
 18. Stalls by Data Dependencies
 19. Stalls by Structural Risks
